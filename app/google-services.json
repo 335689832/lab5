@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "648237090624",
+    "firebase_url": "https://gw-lab5-default-rtdb.firebaseio.com",
+    "project_id": "gw-lab5",
+    "storage_bucket": "gw-lab5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648237090624:android:6e3a6cdadb6d535049dca5",
+        "android_client_info": {
+          "package_name": "com.example.gw_lab5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo0Etc0b6mQcLxbc5BDtJ1JpRYbUKpfKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648237090624:android:1f5ac504bfcdcad449dca5",
+        "android_client_info": {
+          "package_name": "com.example.lab5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo0Etc0b6mQcLxbc5BDtJ1JpRYbUKpfKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
